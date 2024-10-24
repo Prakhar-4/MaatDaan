@@ -22,9 +22,9 @@ Matdaan is an electronic voting system designed for secure and efficient voting 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/Prakhar-4/MaatDaan`
+1. Clone the repository: `git clone https://github.com/Prakhar-4/MatDaan`
 2. Install dependencies:
-   - Frontend: `cd MaatDaan && npm install`
+   - Frontend: `cd MatDaan && npm install`
    - Backend: `cd backend && npm install`
 
 You can access the frontend at `http://localhost:3000` and the backend at `http://localhost:8000`.
